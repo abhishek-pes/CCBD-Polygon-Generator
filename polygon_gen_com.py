@@ -81,7 +81,7 @@ def get_polygons(n,x_boundary,y_boundary,i):
     write_to_file(sorted_list1,sorted_list2)
   
 
-print("finished...")
+print("generating...")
 #function to store the points in wkt file format (later to change it as .csv file)
 def write_to_file(sorted_list1,sorted_list2):
     f.write("\"POLYGON ((")

@@ -1,7 +1,7 @@
 import math, random
 import matplotlib.pyplot as plt
 from shapely.geometry import Polygon, Point
-from PIL import Image,ImageDraw
+
 
 def generatePolygon( ctrX, ctrY, aveRadius, irregularity, spikeyness, numVerts ) :
     '''Start with the centre of the polygon at ctrX, ctrY, 
