@@ -1,16 +1,24 @@
 # IMPORTANT
 ----------------------
 concave concvex
+
 openstack
+
 hadoop
+
 map and reduce
+
 overlapping polygon
+
 theory on manmade and natural objects
+
 ----------------------
 ----------------------
 
 abhishek mishra -- first part the com 
+
 abhishek v -- bonus task 1
+
 pavan n -- bonus task 2
 
 ----------------------
