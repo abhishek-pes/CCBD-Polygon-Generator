@@ -1,25 +1,8 @@
-# IMPORTANT
-----------------------
-concave concvex
+## PAPAERS REFERENCED
 
-openstack
+https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-09-01410
 
-hadoop
-
-map and reduce
-
-overlapping polygon
-
-theory on manmade and natural objects
-
-----------------------
-----------------------
-
-abhishek mishra -- first part the com 
-
-abhishek v -- bonus task 1
-
-pavan n -- bonus task 2
+https://www.researchgate.net/publication/309226044_Commentary_on_Polygon_Overlay_using_MapReduce_and_Random_Forest
 
 ----------------------
 ----------------------
