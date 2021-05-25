@@ -16,7 +16,10 @@ problem solved as a part of the CCBD bootcamp
 
 polygon_gen_com.py
 
-## Polygon generator using noisy circle method
+
+## creation/approach to show natural and manmade distributions
+
+modified a bit of the code referenced from https://stackoverflow.com/questions/8997099/algorithm-to-generate-random-2d-polygon to generate manmade and natural objects
 
 poly_gen_circle.py
 
