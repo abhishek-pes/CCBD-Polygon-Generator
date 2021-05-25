@@ -1,4 +1,4 @@
-## PAPAERS REFERENCED
+## PAPERS REFERENCED
 
 https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-09-01410
 
